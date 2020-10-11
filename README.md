@@ -32,9 +32,11 @@ alias showFiles='defaults write com.apple.finder AppleShowAllFiles YES; killall 
 alias hideFiles='defaults write com.apple.finder AppleShowAllFiles NO; killall Finder /System/Library/CoreServices/Finder.app'
 ```
 
-4. Install `RVM`/`rbenv`
-5. Install `NVM`
+4. Install `rbenv`
+5. Install `nvm`
 6. Install a terminal theme you like eg. [Solarized](https://github.com/tomislav/osx-terminal.app-colors-solarized)
+7. Instal `pyenv`
+
 
 ## Dev programs
 - [Xcode](https://developer.apple.com/xcode/)
