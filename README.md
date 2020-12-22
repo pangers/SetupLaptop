@@ -51,3 +51,5 @@ alias hideFiles='defaults write com.apple.finder AppleShowAllFiles NO; killall F
 - [Google Drive](https://www.google.com/drive/download/)
 - [Rectangle](https://github.com/rxhanson/Rectangle)
 - [LLDB Helpers](https://github.com/DerekSelander/LLDB)
+- [LLDB James](https://github.com/pangers/lldb_james)
+- [Facebook Chisel](https://github.com/facebook/chisel)
