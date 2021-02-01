@@ -26,4 +26,4 @@
 
 ## Other
 
-- Set up SSH key on new laptop for GitHub
+- Set up SSH key on new laptop for GitHub as shown [here](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
