@@ -2,8 +2,8 @@
 
 1. Install [iTerm2](https://iterm2.com/)
 2. Install [oh my zsh](https://ohmyz.sh/)
-  - Add [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) plugin
-  - Add [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin
+    - Add [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) plugin
+    - Add [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin
 4. Install [Powerlevel10k](https://github.com/romkatv/powerlevel10k) zsh theme
 5. Install `rbenv`
 6. Install `nvm`
