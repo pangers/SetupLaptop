@@ -3,9 +3,10 @@
 1. Install [iTerm2](https://iterm2.com/)
 2. Install [oh my zsh](https://ohmyz.sh/)
 3. Install [Powerlevel10k](https://github.com/romkatv/powerlevel10k) zsh theme
-4. Install `rbenv`
-5. Install `nvm`
-6. Install `pyenv`
+4. Install [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
+5. Install `rbenv`
+6. Install `nvm`
+7. Install `pyenv`
 
 
 ## Dev programs
